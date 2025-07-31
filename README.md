@@ -1,1 +1,1 @@
-- [DEMO LINK]([https://izuwiiii.github.io/bang-olufsen_landing-page/])
+- [DEMO LINK](https://izuwiiii.github.io/bang-olufsen_landing-page/)
