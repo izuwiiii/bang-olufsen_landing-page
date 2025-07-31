@@ -25,4 +25,4 @@ A responsive landing page built with semantic HTML and SCSS, following the BEM (
    cd bang-olufsen_landing-page
 
 3. Open index.html in your browser.
-- You can simply double-click the file or use a local development server like Live Server in VS Code.
+   You can simply double-click the file or use a local development server like Live Server in VS Code.
