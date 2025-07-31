@@ -18,4 +18,11 @@ A responsive landing page built with semantic HTML and SCSS, following the BEM (
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://izuwiiii.github.io/bang-olufsen_landing-page/
+
+2. Navigate to the project directory
+   ```bash
+   cd bang-olufsen_landing-page
+
+3. Open index.html in your browser
+   You can simply double-click the file or use a local development server like Live Server in VS Code.
